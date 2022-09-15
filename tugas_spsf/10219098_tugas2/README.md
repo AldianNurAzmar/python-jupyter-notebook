@@ -1,18 +1,20 @@
-## assignment 02
-What is the results of following code?
+## Aldian Nur Azmar - 10219098 - PR 2 Simulasi dan Pemodelan Sistem Fisis
+a. Tuliskan hukum newton problem di atas!
+## Answer
+![alt text](https://github.com/AldianNurAzmar/fi3201-01-2021-2/blob/main/assignments/02/10219098/computational%20physics_assignment%2002.png)
 
-```python
-for i in [0, 1, 2, 3, 4]:
-  print("Hello world!", i, "time")
-```
+b. Tuliskan persamaan diferensial terkopel antara kecepatan pada kedua arah!
+## Answer
+![alt text](https://github.com/AldianNurAzmar/fi3201-01-2021-2/blob/main/assignments/02/10219098/computational%20physics_assignment%2002.png)
 
-## answer
-```
-Hello World! 0 time
-Hello World! 1 time
-Hello World! 2 time
-Hello World! 3 time
-Hello World! 4 time
-```
-Tested at Visual Studio Code - Python 3.9
+c. Selesaikan kedua persamaan diferensial sehingga dapat diperoleh V<sub>x</sub>(t), V<sub>y</sub>(t), x(t), dan y(t) menggunakan perhitungan berdasarkan teori!
+## Answer
+![alt text](https://github.com/AldianNurAzmar/fi3201-01-2021-2/blob/main/assignments/02/10219098/computational%20physics_assignment%2002.png)
+
+d. Tentukan solusi numeriknya!
+## Answer
+![alt text](https://github.com/AldianNurAzmar/fi3201-01-2021-2/blob/main/assignments/02/10219098/computational%20physics_assignment%2002.png)
+
+e. Bandingkan hasil yang diperoleh!
+## Answer
 ![alt text](https://github.com/AldianNurAzmar/fi3201-01-2021-2/blob/main/assignments/02/10219098/computational%20physics_assignment%2002.png)
