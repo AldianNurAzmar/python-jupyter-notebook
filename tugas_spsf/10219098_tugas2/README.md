@@ -1,7 +1,10 @@
 ## Aldian Nur Azmar - 10219098 - PR 2 Simulasi dan Pemodelan Sistem Fisis
+## Soal PR 2 SPSF
+![alt text](https://github.com/AldianNurAzmar/python-jupyter-notebook/blob/main/tugas_spsf/10219098_tugas2/Soal%20PR%202%20SPSF.jpg)
+
 a. Tuliskan hukum newton problem di atas!
 ## Answer
-![alt text]([https://github.com/AldianNurAzmar/fi3201-01-2021-2/blob/main/assignments/02/10219098/computational%20physics_assignment%2002.png])
+![alt text](https://github.com/AldianNurAzmar/python-jupyter-notebook/blob/main/tugas_spsf/10219098_tugas2/Jawaban%20soal%20(a).jpg)
 
 b. Tuliskan persamaan diferensial terkopel antara kecepatan pada kedua arah!
 ## Answer
