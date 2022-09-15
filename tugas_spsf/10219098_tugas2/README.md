@@ -8,18 +8,19 @@ a. Tuliskan hukum newton problem di atas!
 
 b. Tuliskan persamaan diferensial terkopel antara kecepatan pada kedua arah!
 ## Answer
-![alt text](https://github.com/AldianNurAzmar/fi3201-01-2021-2/blob/main/assignments/02/10219098/computational%20physics_assignment%2002.png)
+![alt text](https://github.com/AldianNurAzmar/python-jupyter-notebook/blob/main/tugas_spsf/10219098_tugas2/Jawaban%20soal%20(b).jpg)
 
 c. Selesaikan kedua persamaan diferensial sehingga dapat diperoleh V<sub>x</sub>(t), V<sub>y</sub>(t), x(t), dan y(t) menggunakan perhitungan berdasarkan teori!
 ## Answer
-![alt text](https://github.com/AldianNurAzmar/fi3201-01-2021-2/blob/main/assignments/02/10219098/computational%20physics_assignment%2002.png)
+![alt text](https://github.com/AldianNurAzmar/python-jupyter-notebook/blob/main/tugas_spsf/10219098_tugas2/Jawaban%20soal%20(c)%20bagian%201.jpg)
+![alt text](https://github.com/AldianNurAzmar/python-jupyter-notebook/blob/main/tugas_spsf/10219098_tugas2/Jawaban%20soal%20(c)%20bagian%202.jpg)
 
 Berikut merupakan lampiran code yang menjelaskan visualisasi gerak rotasi partikel pada medan magnet berdasarkan teori,
 ![alt text](https://github.com/AldianNurAzmar/python-jupyter-notebook/blob/main/tugas_spsf/10219098_tugas2/Lampiran%20code%20soal%20(c).jpg)
 
 d. Tentukan solusi numeriknya!
 ## Answer
-![alt text](https://github.com/AldianNurAzmar/fi3201-01-2021-2/blob/main/assignments/02/10219098/computational%20physics_assignment%2002.png)
+![alt text](https://github.com/AldianNurAzmar/python-jupyter-notebook/blob/main/tugas_spsf/10219098_tugas2/Jawaban%20soal%20(d).jpg)
 
 Berikut merupakan lampiran code yang menjelaskan visualisasi gerak rotasi partikel pada medan magnet berdasarkan metode Runge-Kutta,
 ![alt text](https://github.com/AldianNurAzmar/python-jupyter-notebook/blob/main/tugas_spsf/10219098_tugas2/Lampiran%20code%20soal%20(d)%20bagian%201.jpg)
